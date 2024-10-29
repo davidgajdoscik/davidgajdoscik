@@ -1,0 +1,1 @@
+Príklady v jazyku Python
